@@ -1,4 +1,4 @@
-package com.rasenyer.showsapp.ui.activities
+package com.rasenyer.showsapp.ui.main
 
 import android.util.Log
 import androidx.lifecycle.LiveData
